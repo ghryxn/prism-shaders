@@ -1,0 +1,24 @@
+option.GRAY_AMOUNT = Greyscale
+option.GRAY_AMOUNT.comment = Make the colors less colorful and more gray. Does not affect performance.
+
+option.BLUE_AMOUNT = Blue
+option.BLUE_AMOUNT.comment = Make the colors more blueish. Does not affect performance.
+
+option.GREEN_AMOUNT = Green
+option.GREEN_AMOUNT.comment = Make the colors more green. Still does not affect performance.
+
+option.SKY_BLACK = Black Sky
+option.SKY_BLACK.comment = Make the sky dark as darkness itself. Could affect performance by a bit. For debugging purposes.
+
+option.RED_SUN = Red Sun
+option.RED_SUN.comment = Make the sun red. Could alter and tinker with performance here and there. For debugging purposes.
+
+option.GREEN_CLOUDS = Green Clouds
+option.GREEN_CLOUDS.comment = Make the clouds green. Could alter and tinker with performance here and there. For debugging purposes.
+
+option.RED_ENTITIES = Red Entities
+option.RED_ENTITIES.comment = Make entities red. Probably wouldn't alter performance. For debugging purposes.
+
+option.TERRAIN_GRAY_AMOUNT = Gray Terrain
+option.TERRAIN_GRAY_AMOUNT.comment = Makes the terrain more lifeless. Probably wouldn't alter performance. For debugging purposes.
+
